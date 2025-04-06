@@ -83,4 +83,3 @@ Feel free to fork this repo and improve or adjust it to fit your own development
 ## 📽️ Credits
 
 Made with ❤️ by [Vamshi](https://github.com/LV2402)
-```
