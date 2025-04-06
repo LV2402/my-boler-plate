@@ -63,8 +63,9 @@ yarn dev
 my-boler-plate/
 ├── public/
 ├── src/
-│   ├── app/
-│   └── styles/
+│   ├── components/
+│   ├── layouts/
+│   └── app.jsx
 ├── .eslintrc.json
 ├── tailwind.config.js
 ├── tsconfig.json
